@@ -217,10 +217,12 @@ export default function LandingPage() {
         variant: "sparkles-gradient"}}
       tag="Get Started"
       title="Ready to Scale Your Digital Impact?"
-      description="Let's build something remarkable together. Contact us for a consultation today."
+      description="Let's build something remarkable together. Contact us for a consultation today. Reach out to us at hello@solvara.digital or call (555) 123-4567. We are located at 123 Tech Avenue, Innovation City, CA."
       buttons={[
         {
-          text: "Contact Us",          href: "mailto:hello@example.com"},
+          text: "Email Us",          href: "mailto:hello@solvara.digital"},
+        {
+          text: "Call Us",          href: "tel:+15551234567"},
       ]}
     />
   </div>
@@ -253,8 +255,8 @@ export default function LandingPage() {
           ],
         },
       ]}
-      bottomLeftText="© 2024 Apex Digital"
-      bottomRightText="All rights reserved."
+      bottomLeftText="© 2024 Solvara Digital"
+      bottomRightText="All rights reserved. 123 Tech Ave, CA."
     />
   </div>
       </ReactLenis>
