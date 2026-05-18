@@ -178,7 +178,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          title: "Excellent Service",          quote: "Apex Digital changed how we look at online acquisition.",          name: "Sarah Miller",          role: "CEO",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-successful-middle-aged-business-leader_1262-5690.jpg"},
+          id: "1",          title: "Excellent Service",          quote: "Solvara Digital changed how we look at online acquisition.",          name: "Sarah Miller",          role: "CEO",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-successful-middle-aged-business-leader_1262-5690.jpg"},
         {
           id: "2",          title: "Data Driven",          quote: "The metrics speak for themselves. We are growing fast.",          name: "James Chen",          role: "CMO",          imageSrc: "http://img.b2bpic.net/free-photo/positive-confident-business-coach-posing-training-room_74855-3026.jpg"},
         {
