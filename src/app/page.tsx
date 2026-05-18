@@ -43,7 +43,7 @@ export default function LandingPage() {
         {
           name: "Contact",          id: "contact"},
       ]}
-      brandName="Apex Digital"
+      brandName="Solvara Digital"
     />
   </div>
 
