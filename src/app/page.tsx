@@ -217,12 +217,12 @@ export default function LandingPage() {
         variant: "sparkles-gradient"}}
       tag="Get Started"
       title="Ready to Scale Your Digital Impact?"
-      description="Let's build something remarkable together. Contact us for a consultation today. Reach out to us at hello@solvara.digital or call (555) 123-4567. We are located at 123 Tech Avenue, Innovation City, CA."
+      description="Let's build something remarkable together. Contact us for a consultation today. Reach out to us at hello@solvara.digital or call (561) 318-0254."
       buttons={[
         {
           text: "Email Us",          href: "mailto:hello@solvara.digital"},
         {
-          text: "Call Us",          href: "tel:+15551234567"},
+          text: "Call Us",          href: "tel:5613180254"},
       ]}
     />
   </div>
