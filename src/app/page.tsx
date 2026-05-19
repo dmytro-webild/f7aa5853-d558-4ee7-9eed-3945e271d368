@@ -217,10 +217,10 @@ export default function LandingPage() {
         variant: "sparkles-gradient"}}
       tag="Get Started"
       title="Ready to Scale Your Digital Impact?"
-      description="Let's build something remarkable together. Contact us for a consultation today. Reach out to us at hello@solvara.digital or call (561) 318-0254."
+      description="Let's build something remarkable together. Contact us for a consultation today. Reach out to us at brandon@solvaracapital.com or call (561) 318-0254."
       buttons={[
         {
-          text: "Email Us",          href: "mailto:hello@solvara.digital"},
+          text: "Email Us",          href: "mailto:brandon@solvaracapital.com"},
         {
           text: "Call Us",          href: "tel:5613180254"},
       ]}
@@ -256,7 +256,7 @@ export default function LandingPage() {
         },
       ]}
       bottomLeftText="© 2024 Solvara Digital"
-      bottomRightText="All rights reserved. 123 Tech Ave, CA."
+      bottomRightText="All rights reserved."
     />
   </div>
       </ReactLenis>
